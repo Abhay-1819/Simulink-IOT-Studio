@@ -1,0 +1,6 @@
+{
+  "name": "IoT Sim Studio",
+  "description": "A prompt-driven IoT simulation platform for real-time data visualization and control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
